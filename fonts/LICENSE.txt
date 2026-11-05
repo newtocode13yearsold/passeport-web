@@ -1,0 +1,17 @@
+Web fonts self-hosted by Passeport Web, unmodified copies of the files
+distributed by Google Fonts (Latin and Latin-ext subsets), loaded by css/fonts.css.
+
+Inter (inter-latin.woff2, inter-latin-ext.woff2)
+  Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
+  Licensed under the SIL Open Font License, Version 1.1
+  https://openfontlicense.org/open-font-license-official-text/
+
+Fraunces (fraunces-latin.woff2, fraunces-latin-ext.woff2)
+  Copyright 2018 The Fraunces Project Authors (https://github.com/undercasetype/Fraunces)
+  Licensed under the SIL Open Font License, Version 1.1
+  https://openfontlicense.org/open-font-license-official-text/
+
+Special Elite (special-elite-latin.woff2)
+  Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI)
+  Licensed under the Apache License, Version 2.0
+  https://www.apache.org/licenses/LICENSE-2.0
